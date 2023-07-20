@@ -1,0 +1,49 @@
+body{
+    background-color: white;
+    background-image: url(/532.JPG);
+}
+
+.lo{
+    border: 1px solid;
+    border-radius: 1rem;
+    width: 30%;
+    height: 50vh;
+    margin: auto;
+    margin-top: 200px;
+    padding: 2px 22px 22px 34px ;
+    background-color: red;
+}
+label{
+    margin-left: 80px;
+    margin-top: 50px;
+    color: white;
+}
+input{
+    margin-top: 70px;
+    margin-left: 80px;
+    width: 70%;
+    height: 5vh;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+button{
+    width: 20%;
+    height: 5vh;
+    margin-left: 170px;
+    margin-top: 30px;
+    border-top-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    border: none;
+    font-weight: 700;
+    background-color: white;
+}
+
+#show{
+    margin-left: 450px;
+    color: red;
+    border: 1px solid #000;
+    background-color: white;
+    width: 33%;
+    text-align: center;
+    border-radius: 1rem;
+}
